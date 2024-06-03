@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 1st year computer science engineering student.I am currently learning full stack web development along with Data structures and algorithms with C++
+I am a 1st year computer science engineering student.I am currently learning full stack web development along with Data structures and algorithms in C++
 
 
 ## 🌐 Socials:
@@ -27,4 +27,3 @@ I am a 1st year computer science engineering student.I am currently learning ful
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushmaanxs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
