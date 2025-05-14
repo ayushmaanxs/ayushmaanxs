@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 1st year computer science engineering student.I am currently learning full stack web development along with Data structures and algorithms in C++
+I am a 2nd year computer science engineering student.I am currently learning full stack web development along with Data structures and algorithms in C++
 
 
 ## 🌐 Socials:
