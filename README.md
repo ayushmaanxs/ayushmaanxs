@@ -1,11 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Ayushmaan Shandilya
-🎓 B.Tech CSE Student | 💻 Passionate Developer | 🚀 AI & Web Enthusiast
-🌱 Currently exploring AI Agents & Generative AI
-⚡ Skilled in React.js, Next.js, TypeScript, Node.js
-🔍 Strong foundation in Data Structures & Algorithms (DSA)
-🛠️ Love building scalable web apps and experimenting with AI-driven solutions
-🎯 Goal: To combine full-stack development + AI innovation for impactful projects
+👋 Hi, I'm Ayushmaan Shandilya <br/>
+🎓 B.Tech CSE Student | 💻 Passionate Developer | 🚀 AI & Web Enthusiast <br/>
+🌱 Currently exploring AI Agents & Generative AI <br/>
+⚡ Skilled in React.js, Next.js, TypeScript, Node.js <br/>
+🔍 Strong foundation in Data Structures & Algorithms (DSA) <br/>
+🛠️ Love building scalable web apps and experimenting with AI-driven solutions <br/>
+🎯 Goal: To combine full-stack development + AI innovation for impactful projects <br/>
 
 
 ## 🌐 Socials:
